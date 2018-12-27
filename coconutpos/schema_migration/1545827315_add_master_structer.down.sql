@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS trans_delete;
+
+DROP TABLE IF EXISTS web_pages;
+
+DROP TABLE IF EXISTS invite_join;
+
+DROP TABLE IF EXISTS member;
+
+DROP TABLE IF EXISTS employee;
+
+DROP TABLE IF EXISTS device_setting;
+
+DROP TABLE IF EXISTS category;

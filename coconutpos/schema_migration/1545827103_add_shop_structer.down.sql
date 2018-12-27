@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS shop;
+
+DROP TABLE IF EXISTS shop_location;
+
+DROP TABLE IF EXISTS opening_hours;
